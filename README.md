@@ -1,7 +1,7 @@
-###  <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">Hello world!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+###  <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">Hello world!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><br>
 
 
-Welcome to my github page... :octocat:
+Welcome to my github page... :octocat:<br>
 
 
 - :hatching_chick: I'm a beginner in programming;
