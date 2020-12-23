@@ -1,4 +1,4 @@
-###  <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">  Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><br><br><br>
+<div style="text-align:center">###  <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">  Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></div><br><br><br>
 
 
 Welcome to my github page... :octocat:<br><br><br>
