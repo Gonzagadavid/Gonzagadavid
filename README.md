@@ -1,7 +1,7 @@
- ### <p align="center">  <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">  Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></p><br><br><br>
+ ## <p align="center">  <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">  Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></p><br><br><br>
 
 
-#### <p align="center"> Welcome to my github page... :octocat:</p><br><br><br>
+### <p align="center"> Welcome to my github page... :octocat:</p><br><br><br>
 
 
 - :hatching_chick: I'm a beginner in programming;
@@ -24,7 +24,7 @@
 
 
 
-<p align="center"><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></p><br><br><br>
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><br><br><br>
 
 
-### <p align="center"> Thanks for the visit <br><br> <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70px"></p> ###
+## <p align="center"> Thanks for the visit <br><br> <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70px"></p> ###
