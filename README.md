@@ -4,7 +4,7 @@
 ### <p align="center"> Welcome to my github page... :octocat:</p><br><br><br>
 
 
-- :hatching_chick: I'm a beginner in programming;
+- :hatching_chick: I'm a beginner in programming since November 2020;
 
 - :hourglass_flowing_sand: I am currently dedicating all my time in learning;
 
