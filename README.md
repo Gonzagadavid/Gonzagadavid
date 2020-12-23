@@ -17,7 +17,7 @@ Welcome to my github page... :octocat:<br><br><br>
 - :star: visit my repositories, and leave a motivating star.<br><br><br>
 
 
-![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=dark)<br><br><br>
+![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=merko)<br><br><br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact)](https://github.com/Gonzagadavid/github-readme-stats)<br><br><br>
