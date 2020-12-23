@@ -1,7 +1,7 @@
- ## <p align="center">  <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">  Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></p><br><br><br>
+ ### <p align="center">  <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">  Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></p><br><br><br>
 
 
-### <p align="center"> Welcome to my github page... :octocat:</p><br><br><br>
+#### <p align="center"> Welcome to my github page... :octocat:</p><br><br><br>
 
 
 - :hatching_chick: I'm a beginner in programming;
@@ -17,10 +17,10 @@
 - :star: visit my repositories, and leave a motivating star.<br><br><br>
 
 
-<div align="center"> ![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=merko) </div><br><br><br>
+ ![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=merko) <br><br><br>
 
 
-<div align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact)](https://github.com/Gonzagadavid/github-readme-stats)  </div><br><br><br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact)](https://github.com/Gonzagadavid/github-readme-stats)  <br><br><br>
 
 
 
