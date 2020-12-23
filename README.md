@@ -17,10 +17,10 @@
 - :star: visit my repositories, and leave a motivating star.<br><br><br>
 
 
-<p align="center"> ![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=merko)</p><br><br><br>
+<div align="center"> ![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=merko) </div><br><br><br>
 
 
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact)](https://github.com/Gonzagadavid/github-readme-stats)</p><br><br><br>
+<div align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact)](https://github.com/Gonzagadavid/github-readme-stats)  </div><br><br><br>
 
 
 
