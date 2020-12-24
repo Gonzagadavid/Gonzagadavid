@@ -6,7 +6,7 @@
 
 - :hatching_chick: I'm a beginner in programming since November 2020;
 
-- :hourglass_flowing_sand: I am currently dedicating all my time in learning;
+- :hourglass_flowing_sand: I am currently dedicating all my time on learning;
 
 - :muscle: I always try to put my knowledge into practice;
 
@@ -27,4 +27,4 @@
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><br><br><br>
 
 
-## <p align="center"> Thanks for the visit <br><br> <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70px"></p> ###
+## <p align="center"> Thanks for the visiting <br><br> <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70px"></p> ###
