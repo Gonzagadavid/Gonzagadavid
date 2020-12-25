@@ -1,4 +1,4 @@
- ## <p align="center">  <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">  Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></p><br><br><br>
+ ## <p align="center">Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></p><br><br><br>
 
 
 ### <p align="center"> Welcome to my github page... :octocat:</p><br><br><br>
@@ -28,3 +28,5 @@
 
 
 ## <p align="center"> Thanks for the visiting <br><br> <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70px"></p> ###
+
+<!--<img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">-->
