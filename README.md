@@ -1,7 +1,7 @@
- ## <p align="center">Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></p><br><br><br>
+  <h1 align="center">Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1><br><br><br>
 
 
-### <p align="center"> Welcome to my github page... :octocat:</p><br><br><br>
+<h2 align="center"> Welcome to my github page... :octocat:</h2><br><br><br>
 
 
 - :hatching_chick: I'm a beginner in programming since November 2020;
@@ -27,6 +27,6 @@
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><br><br><br>
 
 
-## <p align="center"> Thanks for the visiting <br><br> <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70px"></p> ###
+<h2 align="center"> Thanks for the visiting <br><br> <img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70px"></h2> 
 
 <!--<img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">-->
