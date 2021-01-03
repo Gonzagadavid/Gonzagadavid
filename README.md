@@ -10,7 +10,7 @@
 
 - :muscle: I always try to put my knowledge into practice;
 
-- :chart_with_upwards_trend: I use the repositories on this page to post my personal projects and tutorials;
+- :chart_with_upwards_trend: I use the repositories on this page to post my personal projects;
 
 - 📫 How to reach me: gonzagadaviddev@gmail.com
 
