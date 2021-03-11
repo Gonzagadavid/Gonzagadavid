@@ -1,6 +1,6 @@
-  <h1 align="center">Hello world!  <img src="https://media.giphy.com/media/jmSi1xSHBJuDfQTiEN/giphy.gif" width="24px"></h1>
+  <h1 align="center">Hello world!  <img src="https://media.giphy.com/media/InHvdOCyh7aXMm5R3n/giphy.gif" width="24px"></h1>
 
-<div align="center"><img src ="https://media.giphy.com/media/InHvdOCyh7aXMm5R3n/giphy.gif" width="100%"></div>
+<div align="center"><img src ="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%"></div>
 
 <h2 align="center"> Welcome to my github page... :octocat:</h2><br><br><br>
 
