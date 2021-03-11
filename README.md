@@ -1,9 +1,9 @@
   <h1 align="center">Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1><br><br><br>
 
+<img src ="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" align="center" ><br><br><br>
+
 
 <h2 align="center"> Welcome to my github page... :octocat:</h2><br><br><br>
-
-<img src ="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif"><br><br><br>
 
 
 - :hatching_chick: I'm a beginner in web development since November 2020;
