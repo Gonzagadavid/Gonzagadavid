@@ -1,6 +1,6 @@
   <h1 align="center">Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
-<div align="center"><img src ="https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif" width="100%"></div>
+<div align="center"><img src ="https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif"></div>
 
 <h2 align="center"> Welcome to my github page... :octocat:</h2><br><br><br>
 
