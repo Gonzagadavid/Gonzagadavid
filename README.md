@@ -1,6 +1,6 @@
-  <h1 align="center">Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1><br><br>
+  <h1 align="center">Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1><br>
 
-<div align="center"><img src ="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="300px" height="300px"></div><br><br>
+<div align="center"><img src ="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="300px" height="300px"></div><br>
 
 
 <h2 align="center"> Welcome to my github page... :octocat:</h2><br><br><br>
@@ -14,9 +14,7 @@
 
 - :chart_with_upwards_trend: I use the repositories on this page to post my personal projects;
 
-- 📫 How to reach me: gonzagadaviddev@gmail.com
-
-- :star: visit my repositories, and leave a motivating star.<br><br><br>
+- 📫 How to reach me: gonzagadaviddev@gmail.com<br><br><br>
 
 
  ![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=merko) <br><br><br>
