@@ -3,6 +3,8 @@
 
 <h2 align="center"> Welcome to my github page... :octocat:</h2><br><br><br>
 
+<img src ="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif"><br><br><br>
+
 
 - :hatching_chick: I'm a beginner in web development since November 2020;
 
