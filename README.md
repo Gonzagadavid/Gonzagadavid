@@ -1,6 +1,6 @@
   <h1 align="center">Hello world!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1><br><br>
 
-<div align="center" style="background:red"><img src ="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="200px" height="300px" style="margin-left:0px"><img src ="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="200px" height="300px" style="margin-left:0px"><img src ="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="200px" height="300px" style="margin-left:0px"><img src ="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="200px" height="300px" style="margin-left:0px"></div><br><br>
+<div align="center"><img src ="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="200px" height="300px" style="margin:0px; padding:0px"><img src ="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="200px" height="300px" style="margin:0px; padding:0px"><img src ="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="200px" height="300px" style="margin:0px; padding:0px"><img src ="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="200px" height="300px" style="margin:0px; padding:0px"></div><br><br>
 
 
 <h2 align="center"> Welcome to my github page... :octocat:</h2><br><br><br>
