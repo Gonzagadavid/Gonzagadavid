@@ -1,4 +1,4 @@
-  <h1 align="center">Hello world!  <img src="https://media.giphy.com/media/iFaPIqooUgZ2MkVNJI/giphy.gif" ></h1>
+  <h1 align="center">Hello world!  <img src="https://media.giphy.com/media/X1XORnJ6ErubS/giphy.gif" width="24px"></h1>
 
 <div align="center"><img src ="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%"></div>
 
