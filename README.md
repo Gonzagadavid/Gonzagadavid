@@ -30,6 +30,6 @@
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Gonzagadavid/badges/large)<br><br>
 
 
-<h2 align="center"> Thanks for the visiting <br><br> <img src= "https://media.giphy.com/media/a7j6TVBcNPAQMLaLth/giphy.gif" width="90px"></h2> 
+<h2 align="center"> Thanks for the visiting <br><br> <img src= "https://media.giphy.com/media/a7j6TVBcNPAQMLaLth/giphy.gif" width="120px"></h2> 
 
 <!--<img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">-->
