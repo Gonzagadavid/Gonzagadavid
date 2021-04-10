@@ -4,7 +4,7 @@
 
 <h2 align="center"> Welcome to my github page... :octocat:</h2><br><br><br>
 
-<div style="display:flex; flex-direction=row">
+<div><div>
   
 - :hatching_chick: I'm a beginner in web development since November 2020;
 
@@ -17,6 +17,7 @@
 - :chart_with_upwards_trend: I use the repositories on this page to post my personal projects;
 
 - 📫 How to reach me: gonzagadaviddev@gmail.com
+</div>
 <div><img src="https://app.betrybe.com/assets/images/course/main/real-life.svg" ></div>
 </div><br><br><br>
 
