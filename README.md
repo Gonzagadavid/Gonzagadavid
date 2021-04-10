@@ -3,13 +3,12 @@
 <div align="center"><img src ="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%"></div>
 
 <h2 align="center"> Welcome to my github page... :octocat:</h2>
-<img src="https://app.betrybe.com/assets/images/course/main/real-life.svg" align="center">
 <br><br><br>
 
 
 - :hatching_chick: I'm a beginner in web development since November 2020;
 
-- <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> I am currently a student Trybe, started in April 2021;
+- <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> I am currently a student Trybe, started in April 2021;      <img src="https://app.betrybe.com/assets/images/course/main/real-life.svg">
 
 - :hourglass_flowing_sand: I'm dedicating all my time on learning;
 
