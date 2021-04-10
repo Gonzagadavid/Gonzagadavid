@@ -4,7 +4,7 @@
 
 <h2 align="center"> Welcome to my github page... :octocat:</h2><br><br><br>
 
-
+<div>
 - :hatching_chick: I'm a beginner in web development since November 2020;
 
 - <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> I am currently a student Trybe, started in April 2021;
@@ -15,7 +15,9 @@
 
 - :chart_with_upwards_trend: I use the repositories on this page to post my personal projects;
 
-- 📫 How to reach me: gonzagadaviddev@gmail.com<br><br><br>
+- 📫 How to reach me: gonzagadaviddev@gmail.com
+<div><img src="https://app.betrybe.com/assets/images/course/main/real-life.svg" ></div>
+</div><br><br><br>
 
 
  ![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=algolia) <br><br><br>
@@ -31,7 +33,6 @@
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Gonzagadavid/badges/large)<br><br>
 
-<img src="https://app.betrybe.com/assets/images/course/main/real-life.svg" >
 
 <h2 align="center"> Thanks for the visiting <br> <img src= "https://media.giphy.com/media/a7j6TVBcNPAQMLaLth/giphy.gif" width="150px"></h2> 
 
