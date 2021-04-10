@@ -7,7 +7,9 @@
 
 - :hatching_chick: I'm a beginner in web development since November 2020;
 
-- :hourglass_flowing_sand: I am currently dedicating all my time on learning;
+- <img src="https://app.betrybe.com/assets/images/course/main/real-life.svg"> I am currently a student Trybe, started in April 2021;
+
+- :hourglass_flowing_sand: I'm dedicating all my time on learning;
 
 - :muscle: I always try to put my knowledge into practice;
 
