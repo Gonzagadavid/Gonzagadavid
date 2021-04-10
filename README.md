@@ -4,7 +4,7 @@
 
 <h2 align="center"> Welcome to my github page... :octocat:</h2><br><br><br>
 
-<div><div>
+<div style="display: flex;"><div>
   
 - :hatching_chick: I'm a beginner in web development since November 2020;
 
