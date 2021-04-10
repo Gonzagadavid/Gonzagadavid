@@ -7,7 +7,7 @@
 
 - :hatching_chick: I'm a beginner in web development since November 2020;
 
-- <img src="https://app.betrybe.com/assets/images/course/main/real-life.svg" height="52px" width="24px"> I am currently a student Trybe, started in April 2021;
+- <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" > I am currently a student Trybe, started in April 2021;
 
 - :hourglass_flowing_sand: I'm dedicating all my time on learning;
 
