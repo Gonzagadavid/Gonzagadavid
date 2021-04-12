@@ -18,6 +18,8 @@
 
 - 📫 How to reach me: gonzagadaviddev@gmail.com
 
+- <img src="https://i.stack.imgur.com/gVE0j.png"/> www.linkedin.com/in/david-gonzaga/
+
 <br><br><br>
 
 
