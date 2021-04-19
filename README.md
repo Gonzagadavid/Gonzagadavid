@@ -25,7 +25,7 @@
 
 
 
- ![Gonzagadavid github stats](github-readme-stats-khaki-two.vercel.app?username=Gonzagadavid&show_icons=true&theme=algolia) <br><br><br>
+ ![Gonzagadavid github stats](https://github-readme-stats-git-master-gonzagadavid.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=algolia) <br><br><br>
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact)](https://github.com/Gonzagadavid/github-readme-stats)  <br><br><br>
