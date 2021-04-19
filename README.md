@@ -22,6 +22,8 @@
 
 <br><br><br>
 
+  ![Gonzagadavid GitHub stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=radical)
+
 
  ![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=algolia) <br><br><br>
 
