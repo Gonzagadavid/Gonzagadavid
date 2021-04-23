@@ -38,6 +38,9 @@
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Gonzagadavid/badges/large)<br><br>
 
+[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard) 
+<br><br>
+
 
 <h2 align="center"> Thanks for the visiting <br> <img src= "https://media.giphy.com/media/a7j6TVBcNPAQMLaLth/giphy.gif" width="150px"></h2> 
 
