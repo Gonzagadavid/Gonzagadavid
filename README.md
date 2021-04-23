@@ -28,7 +28,9 @@
  ![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=algolia) <br><br><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact)](https://github.com/Gonzagadavid/github-readme-stats)  <br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact)](https://github.com/Gonzagadavid/github-readme-stats) 
+[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+<br><br><br>
 
 
 
@@ -36,8 +38,6 @@
 <br><br><br>
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Gonzagadavid/badges/large)<br><br>
-
-<img src="https://cdn.rawgit.com/standard/standard/master/sticker.svg" width="100px"><br><br>
 
 <h2 align="center"> Thanks for the visiting <br> <img src= "https://media.giphy.com/media/a7j6TVBcNPAQMLaLth/giphy.gif" width="150px"></h2> 
 
