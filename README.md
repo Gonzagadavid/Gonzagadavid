@@ -2,7 +2,7 @@
 
 <div align="center"><img src ="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%"></div>
 
-<h2 align="center"> Welcome to my github page... :octocat:</h2>
+<h2 align="center"> Welcome to my github... :octocat:</h2>
 <br><br><br>
 
 
