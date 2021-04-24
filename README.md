@@ -18,6 +18,8 @@
 
 - 📫 How to reach me: gonzagadaviddev@gmail.com
 
+- :octocat: <a href="https://gonzagadavid.github.io/portfolio">GitHub Page</a>
+
 - <img src="https://i.stack.imgur.com/gVE0j.png"/><a href="www.linkedin.com/in/david-gonzaga/"> LinkedIn</a>
 
 <br><br><br>
