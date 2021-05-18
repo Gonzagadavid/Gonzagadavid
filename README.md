@@ -1,6 +1,6 @@
   <h1 align="center">Hello world!  <img src="https://media.giphy.com/media/X1XORnJ6ErubS/giphy.gif" width="55px"></h1>
 
-<div align="center"><img src ="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%"></div>
+<div align="center"><img src ="./assets/wellcome.gif" width="100%"></div>
 
 <h2 align="center"> Welcome to my github... :octocat:</h2>
 <br><br><br>
