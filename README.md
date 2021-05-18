@@ -2,7 +2,7 @@
 
 <div align="center"><img src ="./assets/wellcome.gif" width="100%"></div>
 
-<h2 align="center"> Welcome to my github... :octocat:</h2>
+<!--<h2 align="center"> Welcome to my github... :octocat:</h2>-->
 <br><br><br>
 
 
