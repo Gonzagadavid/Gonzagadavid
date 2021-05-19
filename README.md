@@ -1,8 +1,8 @@
   <h1 align="center">Hello world!  <img src="https://media.giphy.com/media/X1XORnJ6ErubS/giphy.gif" width="55px"></h1>
 
-<div align="center"><img src ="./assets/wellcome.gif" width="100%"></div>
+<div align="center"><img src ="./assets/welcome.gif" width="100%"></div>
 
-<h2 align="center"> Welcome to my github... :octocat:</h2>
+<!--<h2 align="center"> Welcome to my github... :octocat:</h2>-->
 <br><br><br>
 
 
@@ -27,7 +27,7 @@
 
 
 
- ![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=algolia) <br><br><br>
+ ![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark) <br><br><br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact)](https://github.com/Gonzagadavid/github-readme-stats)
