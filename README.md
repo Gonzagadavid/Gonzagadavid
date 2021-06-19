@@ -22,12 +22,12 @@
 
 - <img src="https://i.stack.imgur.com/gVE0j.png"/><a href="www.linkedin.com/in/david-gonzaga/"> LinkedIn</a>
 
-<br><br><br>
+<br><br>
 
 
 
 
- <img align="center">![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark)</img>
+ <img align="center">![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark)</img><br><br>
 <img align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact&theme=chartreuse-dark)](https://github.com/Gonzagadavid/github-readme-stats)</img>
 <br><br><br>
 
