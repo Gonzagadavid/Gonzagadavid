@@ -31,12 +31,10 @@
 <img align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact&theme=chartreuse-dark)](https://github.com/Gonzagadavid/github-readme-stats)</img>
 <br><br><br>
 
-
-
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" width="85px"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white" width="75px"> <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=plastic&logo=javascript&logoColor=ffffff" width="110px"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=plastic&logo=Node.js&logoColor=white" width="90px"> <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" width="90px"> <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=plastic" width="55px"><br> 
-<img src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=plastic" width="130px">
-<img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=plastic" width="85px"> <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=plastic" width="70px"> <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=plastic" width="65px"> 
-<img src="https://img.shields.io/badge/-Testing%20Library-E33332?logo=testing-library&logoColor=white&style=plastic" width="150px">
+<img src = "https://img.shields.io/badge/-HTML5-1C1C1C?style=plastic&logo=html5&logoColor=E34F26" width="85px"> <img src = "https://img.shields.io/badge/-CSS3-1C1C1C?style=plastic&logo=css3&logoColor=1572B6" width="75px"> <img src = "https://img.shields.io/badge/-JavaScript-1C1C1C?style=plastic&logo=javascript&logoColor=eed718" width="110px"> <img src="https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A" width="90px"> <img src="https://img.shields.io/badge/-ReactJs-1C1C1C?logo=react&logoColor=61DAFB&style=plastic" width="90px"> <img src="https://img.shields.io/badge/-git-1C1C1C?logo=git&logoColor=F05032&style=plastic" width="55px"><br> 
+<img src="https://img.shields.io/badge/-React%20Router-1C1C1C?logo=react-router&logoColor=CA4245&style=plastic" width="130px">
+<img src="https://img.shields.io/badge/-Redux-1C1C1C?logo=redux&logoColor=764ABC&style=plastic" width="85px"> <img src="https://img.shields.io/badge/-NPM-1C1C1C?logo=npm&logoColor=CB3837&style=plastic" width="70px"> <img src="https://img.shields.io/badge/-Jest-1C1C1C?logo=jest&logoColor=C21325&style=plastic" width="65px"> 
+<img src="https://img.shields.io/badge/-Testing%20Library-1C1C1C?logo=testing-library&logoColor=E33332&style=plastic" width="150px">
 <br><br><br>
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Gonzagadavid/badges/large)<br><br>
