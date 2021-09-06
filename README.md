@@ -33,7 +33,8 @@
 
 
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" width="85px"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" width="75px"> <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" width="110px"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" width="90px"> 
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" width="85px"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white" width="75px"> <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=plastic&logo=javascript&logoColor=ffffff" width="110px"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=plastic&logo=Node.js&logoColor=white" width="90px">  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic" width="90px"> <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=plastic" width="85px"> <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=plastic" width="70px"> <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=plastic" width="65px"> 
+<img src="https://img.shields.io/badge/-Testing%20Library-E33332?logo=testing-library&logoColor=white&style=plastic" width="150px">
 <br><br><br>
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/Gonzagadavid/badges/large)<br><br>
