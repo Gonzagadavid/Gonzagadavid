@@ -30,7 +30,7 @@
  <img align="center">![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark)  </img>
 <img align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact&theme=chartreuse-dark)](https://github.com/Gonzagadavid/github-readme-stats)</img>
 <br><br><br>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Gonzagadavid&&bg_color=0d1117&color=95ff00&line=95ff00&point=fff&area=true&area_color=190ff8&hide_border=false" /></div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Gonzagadavid&&bg_color=0d1117&color=95ff00&line=95ff00&point=fff&area=false&area_color=190ff8&hide_border=false" /></div>
 <br><br><br>
 <div align="center">
 <img src = "https://img.shields.io/badge/-HTML5-1C1C1C?style=plastic&logo=html5&logoColor=E34F26" width="85px"> <img src = "https://img.shields.io/badge/-CSS3-1C1C1C?style=plastic&logo=css3&logoColor=1572B6" width="75px"> <img src = "https://img.shields.io/badge/-JavaScript-1C1C1C?style=plastic&logo=javascript&logoColor=eed718" width="110px"> <img src="https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A" width="90px"> <img src="https://img.shields.io/badge/-ReactJs-1C1C1C?logo=react&logoColor=61DAFB&style=plastic" width="90px"> <img src="https://img.shields.io/badge/-git-1C1C1C?logo=git&logoColor=F05032&style=plastic" width="55px"><br> 
@@ -41,10 +41,10 @@
   <br><br><br>
 <div align="center">
   <img src="https://www.codewars.com/users/Gonzagadavid/badges/large" />
-<!--![My Codewarrior Profil(url)e Badge](https://www.codewars.com/users/Gonzagadavid/badges/large)-->
   </dv><br><br>
 
 <h2 align="center"> Thanks for the visiting <br> <img src= "https://media.giphy.com/media/a7j6TVBcNPAQMLaLth/giphy.gif" width="150px"></h2> 
 
 <!--<img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">-->
 <!--<img src="https://cdn.rawgit.com/standard/standard/master/badge.svg" width="80px">-->
+<!--![My Codewarrior Profil(url)e Badge](https://www.codewars.com/users/Gonzagadavid/badges/large)-->
