@@ -26,9 +26,9 @@
 
 
 
-
- <img align="center">![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark)  </img>
-<img align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact&theme=chartreuse-dark)](https://github.com/Gonzagadavid/github-readme-stats)</img>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact&theme=chartreuse-dark"/>
+</div>
 <br><br><br>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Gonzagadavid&&bg_color=0d1117&color=95ff00&line=95ff00&point=fff&area=false&area_color=190ff8&hide_border=false" /></div>
 <br><br><br>
@@ -48,3 +48,6 @@
 <!--<img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">-->
 <!--<img src="https://cdn.rawgit.com/standard/standard/master/badge.svg" width="80px">-->
 <!--![My Codewarrior Profil(url)e Badge](https://www.codewars.com/users/Gonzagadavid/badges/large)-->
+
+<!-- <img align="center">![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark)  </img>
+<img align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact&theme=chartreuse-dark)](https://github.com/Gonzagadavid/github-readme-stats)</img> -->
