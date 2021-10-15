@@ -2,9 +2,7 @@
 
 <div align="center"><img src ="./assets/welcome.gif" width="100%"></div>
 
-<!--<h2 align="center"> Welcome to my github... :octocat:</h2>-->
 <br><br><br>
-
 
 - :hatching_chick: I'm a beginner in web development since November 2020;
 
@@ -23,8 +21,6 @@
 - <img src="https://i.stack.imgur.com/gVE0j.png"/><a href="www.linkedin.com/in/david-gonzaga/"> LinkedIn</a>
 
 <br><br>
-
-
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact&theme=chartreuse-dark"/>
@@ -45,9 +41,3 @@
 
 <h2 align="center"> Thanks for the visiting <br> <img src= "https://media.giphy.com/media/a7j6TVBcNPAQMLaLth/giphy.gif" width="150px"></h2> 
 
-<!--<img src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px">-->
-<!--<img src="https://cdn.rawgit.com/standard/standard/master/badge.svg" width="80px">-->
-<!--![My Codewarrior Profil(url)e Badge](https://www.codewars.com/users/Gonzagadavid/badges/large)-->
-
-<!-- <img align="center">![Gonzagadavid github stats](https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark)  </img>
-<img align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact&theme=chartreuse-dark)](https://github.com/Gonzagadavid/github-readme-stats)</img> -->
