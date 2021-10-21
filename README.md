@@ -4,7 +4,7 @@
 
 <br><br><br>
 
-- :hatching_chick: I'm a beginner in web development since November 2020;
+- :hatching_chick: I'm a beginner in web development since October 2020;
 
 - <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> I am currently a student of the school Trybe since April 2021; 
 
