@@ -39,5 +39,5 @@
   <img src="https://www.codewars.com/users/Gonzagadavid/badges/large" />
   </dv><br><br>
 
-<h2 align="center"> Thanks for the visiting <br> <img src= "https://media.giphy.com/media/a7j6TVBcNPAQMLaLth/giphy.gif" width="150px"></h2> 
+<h2 align="center"> Thanks for the visit <br> <img src= "https://media.giphy.com/media/a7j6TVBcNPAQMLaLth/giphy.gif" width="150px"></h2> 
 
