@@ -26,16 +26,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact&theme=chartreuse-dark"/>
 </div>
 <br><br><br>
-<!--START_SECTION:waka-->
 
-```text
-CSS          1 hr 26 mins    ███████████████████████▒░   92.90 %
-TypeScript   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-```
-
-<!--END_SECTION:waka-->
-<br><br><br>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Gonzagadavid&&bg_color=0d1117&color=95ff00&line=95ff00&point=fff&area=false&area_color=190ff8&hide_border=false" /></div>
 <br><br><br>
 <div align="center">
