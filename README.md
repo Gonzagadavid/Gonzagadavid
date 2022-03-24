@@ -27,6 +27,11 @@
 </div>
 <br><br><br>
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 <br><br><br>
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Gonzagadavid&&bg_color=0d1117&color=95ff00&line=95ff00&point=fff&area=false&area_color=190ff8&hide_border=false" /></div>
