@@ -31,6 +31,7 @@
   <summary> Status Wakatime </summary> 
   
   <!--START_SECTION:waka-->
+  
   <!--END_SECTION:waka--> 
   
 </details>
