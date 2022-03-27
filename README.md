@@ -20,15 +20,13 @@
 
 - <img src="https://i.stack.imgur.com/gVE0j.png"/><a href="https://www.linkedin.com/in/david-gonzaga/"> LinkedIn</a>
 
-<br><br>
-
+<br>
 <details>
   <summary> Status Wakatime </summary> 
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka--> 
 </details>
-
-<br><br>
+<br>
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact&theme=chartreuse-dark"/>
