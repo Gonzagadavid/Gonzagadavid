@@ -24,14 +24,13 @@
 <details>
   <summary> Status Wakatime </summary> 
   <!--START_SECTION:waka-->
-  
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-123-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-144-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 740 Contributions in the Year 2022
+> 🏆 741 Contributions in the Year 2022
  > 
 > 📦 665.7 kB Used in GitHub's Storage 
  > 
@@ -107,7 +106,7 @@ Shell                    3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Gonzagadavid/Gonzagadavid/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/03/2022 21:32:50 UTC
+ Last Updated on 28/03/2022 01:15:14 UTC
 <!--END_SECTION:waka--> 
 </details>
 <br>
