@@ -1,8 +1,8 @@
   <h1 align="center">Hello world!  <img src="https://media.giphy.com/media/X1XORnJ6ErubS/giphy.gif" width="55px"></h1>
 
-<!-- <div align="center"> -->
+<div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact&theme=chartreuse-dark"/>
-<!-- </div> -->
+</div>
 
 <br><br><br>
 
