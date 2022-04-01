@@ -12,11 +12,6 @@
 <img src="https://img.shields.io/badge/-Redux-1C1C1C?logo=redux&logoColor=764ABC&style=plastic" width="85px"> <img src="https://img.shields.io/badge/-NPM-1C1C1C?logo=npm&logoColor=CB3837&style=plastic" width="70px"> <img src="https://img.shields.io/badge/-Jest-1C1C1C?logo=jest&logoColor=C21325&style=plastic" width="65px"> 
 <img src="https://img.shields.io/badge/-Testing%20Library-1C1C1C?logo=testing-library&logoColor=E33332&style=plastic" width="150px">
 </div>
-  <br>
-<div align="center">
-  <img src="https://www.codewars.com/users/Gonzagadavid/badges/large" />
-</div>
-
 <br>
 
 - :hatching_chick: I'm a beginner in web development since October 2020;
@@ -36,6 +31,12 @@
 - <img src="https://i.stack.imgur.com/gVE0j.png"/><a href="https://www.linkedin.com/in/david-gonzaga/"> LinkedIn</a>
 
 <br>
+
+  <br>
+<div align="center">
+  <img src="https://www.codewars.com/users/Gonzagadavid/badges/large" />
+</div>
+
 <details>
   <summary> Status Wakatime </summary> 
   <!--START_SECTION:waka-->
