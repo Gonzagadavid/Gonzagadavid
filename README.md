@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A" width="90px"> 
   <img src="https://img.shields.io/badge/-ReactJs-1C1C1C?logo=react&logoColor=61DAFB&style=plastic" width="90px"> 
   <img src="https://img.shields.io/badge/-MongoDB-1C1C1C?style=plastic&logo=mongodb&logoColor=47A248" width="105px">  
-  <img src="https://img.shields.io/badge/-MySQL-1C1C1C?style=plastic&logo=mysql&logoColor=4479A1" width="85px"><br> 
+  <img src="https://img.shields.io/badge/-MySQL-1C1C1C?style=plastic&logo=mysql&logoColor=4479A1" width="85px">
   <img src="https://img.shields.io/badge/-git-1C1C1C?logo=git&logoColor=F05032&style=plastic" width="55px">
   <img src="https://img.shields.io/badge/-React%20Router-1C1C1C?logo=react-router&logoColor=CA4245&style=plastic" width="130px">
   <img src="https://img.shields.io/badge/-Redux-1C1C1C?logo=redux&logoColor=764ABC&style=plastic" width="85px"> 
