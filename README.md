@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/-NPM-1C1C1C?logo=npm&logoColor=CB3837&style=plastic" width="70px"> 
   <img src="https://img.shields.io/badge/-Jest-1C1C1C?logo=jest&logoColor=C21325&style=plastic" width="65px"> 
   <img src="https://img.shields.io/badge/-Testing%20Library-1C1C1C?logo=testing-library&logoColor=E33332&style=plastic" width="150px">
+  <img src="https://img.shields.io/badge/-Chai-1C1C1C?style=plastic&logo=chai&logoColor=A30701" width="72px">
+  <img src="https://img.shields.io/badge/-Mocha-1C1C1C?style=plastic&logo=mocha&logoColor=8D6748" width="85px">
   <img src="https://img.shields.io/badge/-Swagger-1C1C1C?style=plastic&logo=swagger&logoColor=85EA2D" width="105px">
 </div>
 <br>
