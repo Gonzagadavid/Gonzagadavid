@@ -48,7 +48,7 @@
 
   <br>
 <div align="center">
-  <div><a href=https://www.codewars.com/users/Gonzagadavid)>Code Wars</a></div>
+  <div><a href="https://www.codewars.com/users/Gonzagadavid">Code Wars</a></div>
   <img src="https://www.codewars.com/users/Gonzagadavid/badges/large" />
 </div>
 
