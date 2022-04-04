@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-git-1C1C1C?logo=git&logoColor=F05032&style=plastic" width="55px">
   <img src="https://img.shields.io/badge/-React%20Router-1C1C1C?logo=react-router&logoColor=CA4245&style=plastic" width="130px">
   <img src="https://img.shields.io/badge/-Redux-1C1C1C?logo=redux&logoColor=764ABC&style=plastic" width="85px"> 
-  <img src="https://img.shields.io/badge/-Express-1C1C1C?style=plastic&logo=express&logoColor=fff" width="85px"> 
+  <img src="https://img.shields.io/badge/-Express-1C1C1C?style=plastic&logo=express&logoColor=fff" width="95px"> 
   <img src="https://img.shields.io/badge/-NPM-1C1C1C?logo=npm&logoColor=CB3837&style=plastic" width="70px"> 
   <img src="https://img.shields.io/badge/-Jest-1C1C1C?logo=jest&logoColor=C21325&style=plastic" width="65px"> 
   <img src="https://img.shields.io/badge/-Testing%20Library-1C1C1C?logo=testing-library&logoColor=E33332&style=plastic" width="150px">
