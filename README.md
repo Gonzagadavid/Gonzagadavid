@@ -30,13 +30,13 @@
 
 - :hatching_chick: I'm a beginner in web development since October 2020;
 
-- <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> I am currently a student of the school Trybe since April 2021; 
+- <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> I studied at Trybe from April 2021 to April 2022; 
 
 - :hourglass_flowing_sand: I'm dedicating all my time on learning;
 
 - :muscle: I always try to put my knowledge into practice;
 
-- :chart_with_upwards_trend: I use the repositories on this page to post my personal projects;
+- :chart_with_upwards_trend: I use the repositories on this page to post my personal projects and the projects I develop while studying;
 
 - 📫 How to reach me: gonzagadaviddev@gmail.com
 
