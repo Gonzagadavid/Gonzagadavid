@@ -32,7 +32,7 @@
 
 - :hatching_chick: I started in web development in October 2020;
 
-- <img src="https://emoji.slack-edge.com/TMDDFEPFU/trybe/54202dc3a934a845.png" height="20px" width="20px"> I studied at Trybe from April 2021 to April 2022; 
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8eHMDI2hW1eiwtcrvs3tQYkNgxSDisd1G2RmIq_6dUwPFIrmXYJ_pTmU7pe1mwP-whmM&usqp=CAU" height="20px" width="20px"> I studied at Trybe from April 2021 to April 2022; 
 
 - :hourglass_flowing_sand: I have been dedicating all my time on learning;
 
