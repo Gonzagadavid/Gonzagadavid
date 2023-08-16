@@ -1,4 +1,4 @@
-  <h1 align="center">Hello world!  <img src="https://media.giphy.com/media/X1XORnJ6ErubS/giphy.gif" width="55px"></h1>
+  <h1 align="center">Welcome to my GitHub!  <img src="https://media.giphy.com/media/X1XORnJ6ErubS/giphy.gif" width="55px"></h1>
 
 <!-- <div align="center"> -->
  <img src="https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact&theme=chartreuse-dark"/>
@@ -32,9 +32,11 @@
 
 - :hatching_chick: I started in web development in October 2020;
 
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8eHMDI2hW1eiwtcrvs3tQYkNgxSDisd1G2RmIq_6dUwPFIrmXYJ_pTmU7pe1mwP-whmM&usqp=CAU" height="20px" width="20px"> I studied at Trybe from April 2021 to April 2022; 
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8eHMDI2hW1eiwtcrvs3tQYkNgxSDisd1G2RmIq_6dUwPFIrmXYJ_pTmU7pe1mwP-whmM&usqp=CAU" height="20px" width="20px"> I studied at [Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) from April 2021 to April 2022;
 
-- :hourglass_flowing_sand: I have been dedicating all my time on learning;
+ - <img src="https://avatars.githubusercontent.com/u/1327899?s=64&v=4" height="20px" width="20px"> I started working at [ProFusion](https://profusion.mobi/index-pt.html) in May 2022; 
+
+- <img src="https://github.com/Gonzagadavid/Gonzagadavid/assets/73129958/f8bb55e7-6dfe-4778-af50-49a1cecdbc11" height="20px" width="20px"> At the moment, I am studying bachelor in information technology at [UNIVESP](https://univesp.br/institucional) since June 2022;
 
 - :muscle: I always try to put my knowledge into practice;
 
