@@ -36,7 +36,9 @@
 
  - <img src="https://avatars.githubusercontent.com/u/1327899?s=64&v=4" height="20px" width="20px"> I started working at [ProFusion](https://profusion.mobi/index-pt.html) in May 2022; 
 
-- <img src="https://github.com/Gonzagadavid/Gonzagadavid/assets/73129958/f8bb55e7-6dfe-4778-af50-49a1cecdbc11" height="20px" width="20px"> At the moment, I am studying bachelor in information technology at [UNIVESP](https://univesp.br/institucional) since June 2022;
+- <img src="https://github.com/Gonzagadavid/Gonzagadavid/assets/73129958/f8bb55e7-6dfe-4778-af50-49a1cecdbc11" height="20px" width="20px"> At the moment,  I Have been studying for a Bachelor of Information Technology in [UNIVESP](https://univesp.br/institucional) since June 2022;
+  
+- :earth_americas: I have been trying to improve my English.
 
 - :muscle: I always try to put my knowledge into practice;
 
