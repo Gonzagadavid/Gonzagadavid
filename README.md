@@ -1,8 +1,9 @@
   <h1 align="center">Welcome to my GitHub! <picture><img alt="world." src="https://media.giphy.com/media/X1XORnJ6ErubS/giphy.gif" width="55px"></picture></h1>
 
 <!-- <div align="center"> -->
- <img src="https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact&theme=chartreuse-dark"/>
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact&theme=chartreuse-dark"/> -->
 <!-- </div> -->
+ <img src="https://gonzagadavid-github-readme-stats.vercel.app/api?username=Gonzagadavid&show_icons=true&theme=chartreuse-dark" /><img src="https://gonzagadavid-github-readme-stats.vercel.app/api/top-langs/?username=Gonzagadavid&layout=compact&theme=chartreuse-dark"/>
 
 <br>
 <div align="center">
